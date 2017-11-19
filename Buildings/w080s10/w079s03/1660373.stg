@@ -1,0 +1,7 @@
+# osm2city_w080s10_w079s03_1660373
+# do not edit below this line
+# Last Written Sun Nov 19 01:02:44 2017
+#
+OBJECT_BUILDING_MESH_DETAILED w080s10_w079s03_1660373city00600.ac -78.25527 -2.73698 504.64 0
+OBJECT_STATIC lightmap-switch.xml -78.25527 -2.73698 504.64 0
+# END osm2city_w080s10_w079s03_1660373

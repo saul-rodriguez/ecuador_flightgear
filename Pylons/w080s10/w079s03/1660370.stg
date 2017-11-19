@@ -1,0 +1,30 @@
+# pylons_w080s10_w079s03_1660370
+# do not edit below this line
+# Last Written Sun Nov 19 01:01:21 2017
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.70443 -2.63714 3021.64 382.976
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.69814 -2.63446 3014.40 383.466
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.69605 -2.63353 3006.65 383.617
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.69182 -2.63170 2976.94 405.695
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.69063 -2.62871 3007.84 428.101
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.68481 -2.62689 2869.75 230.083
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.68583 -2.62811 2887.06 230.511
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.68723 -2.62985 2872.55 230.592
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.68954 -2.63265 2879.70 230.558
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.69467 -2.63899 2908.72 230.647
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.69575 -2.64030 2945.95 229.978
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.69779 -2.64271 3004.52 230.153
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.70130 -2.64703 3119.78 231.35
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.70318 -2.64943 3152.38 231.632
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.70423 -2.65077 3178.31 230.537
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.70621 -2.65311 3205.29 229.737
+OBJECT_BUILDING_MESH_DETAILED w080s10_w079s03_1660370cables00020.ac -78.70200 -2.64791 3104.91 90
+OBJECT_BUILDING_MESH_DETAILED w080s10_w079s03_1660370cables00021.ac -78.69812 -2.63442 2999.29 90
+OBJECT_BUILDING_MESH_DETAILED w080s10_w079s03_1660370cables00028.ac -78.69130 -2.63351 2938.79 90
+# END pylons_w080s10_w079s03_1660370
+# pylons_w080s10_w079s03_1660378
+# do not edit below this line
+# Last Written Sun Nov 19 01:01:30 2017
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.68481 -2.62689 2869.75 220.217
+# END pylons_w080s10_w079s03_1660378
