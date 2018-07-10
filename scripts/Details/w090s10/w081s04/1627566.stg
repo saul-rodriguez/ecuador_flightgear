@@ -1,0 +1,8 @@
+# piers_w090s10_w081s04_1627566
+# do not edit below this line
+# Last Written Sun Jul  1 09:55:27 2018
+#
+OBJECT_STATIC w090s10_w081s04_1627566piers0401.ac -80.16902 -3.34787 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -80.16944 -3.35150 -8.09 48.6828
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -80.16936 -3.35153 -8.09 50.2365
+# END piers_w090s10_w081s04_1627566

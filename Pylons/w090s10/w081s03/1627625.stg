@@ -1,8 +1,0 @@
-# pylons_w090s10_w081s03_1627625
-# do not edit below this line
-# Last Written Sun Nov 19 00:06:04 2017
-#
-OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac -80.85710 -2.31694 47.00 0
-OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -80.85773 -2.31669 -24.49 0
-OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac -80.85799 -2.31799 45.27 0
-# END pylons_w090s10_w081s03_1627625

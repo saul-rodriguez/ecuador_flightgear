@@ -1,0 +1,22 @@
+# pylons_w080s10_w079s01_1660525
+# do not edit below this line
+# Last Written Sun Jul  1 11:17:05 2018
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.29810 -0.24742 3023.57 126.467
+# END pylons_w080s10_w079s01_1660525
+# pylons_w080s10_w079s01_1660533
+# do not edit below this line
+# Last Written Sun Jul  1 11:17:14 2018
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.29810 -0.24742 3023.57 115.694
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.30054 -0.24232 2980.16 114.94
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.30245 -0.23804 2970.13 114.628
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.30386 -0.23500 2993.04 115.617
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.30549 -0.23165 3010.51 116.22
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.30714 -0.22829 2968.72 116.451
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.31044 -0.22167 2943.31 116.626
+OBJECT_BUILDING_MESH_DETAILED w080s10_w079s01_1660533cables00022.ac -78.30468 -0.23333 3001.77 90
+OBJECT_BUILDING_MESH_DETAILED w080s10_w079s01_1660533cables00023.ac -78.30797 -0.22666 2976.91 90
+OBJECT_BUILDING_MESH_DETAILED w080s10_w079s01_1660533cables00029.ac -78.30098 -0.24121 2996.85 90
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -78.34850 -0.22380 2186.53 450
+# END pylons_w080s10_w079s01_1660533

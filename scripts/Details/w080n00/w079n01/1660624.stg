@@ -1,0 +1,9 @@
+# piers_w080n00_w079n01_1660624
+# do not edit below this line
+# Last Written Sun Jul  1 11:23:21 2018
+#
+OBJECT_STATIC w080n00_w079n01_1660624piers0304.ac -78.93710 1.33139 0.00 0
+OBJECT_STATIC w080n00_w079n01_1660624piers0600.ac -78.88319 1.25904 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -78.94162 1.32569 -0.00 136.792
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -78.88680 1.25474 -2.48 -95.0127
+# END piers_w080n00_w079n01_1660624

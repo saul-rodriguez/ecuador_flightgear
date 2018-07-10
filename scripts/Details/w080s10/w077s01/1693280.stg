@@ -1,0 +1,8 @@
+# piers_w080s10_w077s01_1693280
+# do not edit below this line
+# Last Written Sun Jul  1 11:32:29 2018
+#
+OBJECT_STATIC w080s10_w077s01_1693280piers0101.ac -76.97305 -0.47287 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -76.98061 -0.47267 245.00 140.643
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -76.98109 -0.47296 245.00 140.106
+# END piers_w080s10_w077s01_1693280

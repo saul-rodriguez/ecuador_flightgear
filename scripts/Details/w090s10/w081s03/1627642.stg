@@ -1,0 +1,10 @@
+# piers_w090s10_w081s03_1627642
+# do not edit below this line
+# Last Written Sun Jul  1 09:56:10 2018
+#
+OBJECT_STATIC w090s10_w081s03_1627642piers0003.ac -80.74101 -2.06169 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/SimpleFreighter.ac -80.74347 -2.06715 -2.04 -59.969
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.73722 -2.05443 -0.20 -91.8253
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.73590 -2.05444 -0.20 -74.067
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -80.73494 -2.05454 -0.20 38.027
+# END piers_w090s10_w081s03_1627642

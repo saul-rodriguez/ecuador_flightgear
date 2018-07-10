@@ -1,0 +1,25 @@
+# pylons_w080s10_w080s04_1643928
+# do not edit below this line
+# Last Written Sun Jul  1 10:22:44 2018
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -79.98467 -3.50290 16.32 202.138
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -79.98913 -3.50472 20.77 201.904
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -79.99436 -3.50681 20.86 201.446
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -79.99790 -3.50819 17.38 201.703
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -79.96562 -3.53239 51.52 118.007
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -79.96700 -3.52979 47.62 117.815
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -79.96830 -3.52730 43.75 118.041
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -79.96965 -3.52479 40.82 117.946
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -79.97093 -3.52230 39.59 116.328
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -79.97127 -3.52159 39.77 269.646
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -79.97084 -3.52072 40.25 435.238
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -79.97071 -3.51851 41.19 446.409
+OBJECT_BUILDING_MESH_DETAILED w080s10_w080s04_1643928cables00007.ac -79.99319 -3.50632 21.07 90
+OBJECT_BUILDING_MESH_DETAILED w080s10_w080s04_1643928cables00013.ac -79.96844 -3.52545 45.55 90
+# END pylons_w080s10_w080s04_1643928
+# pylons_w080s10_w080s04_1643936
+# do not edit below this line
+# Last Written Sun Jul  1 10:22:54 2018
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -79.98467 -3.50290 16.32 219.333
+# END pylons_w080s10_w080s04_1643936

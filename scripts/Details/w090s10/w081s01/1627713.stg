@@ -1,0 +1,19 @@
+# piers_w090s10_w081s01_1627713
+# do not edit below this line
+# Last Written Sun Jul  1 10:02:15 2018
+#
+OBJECT_STATIC w090s10_w081s01_1627713piers0302.ac -80.81211 -0.95478 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.80652 -0.95790 -0.09 -137.427
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.80685 -0.95764 -0.09 41.5111
+OBJECT_SHARED Models/Maritime/Civilian/barge.xml -80.80840 -0.95763 -0.09 21.6525
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.80745 -0.95792 -0.09 131.339
+OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml -80.80840 -0.95763 -0.09 -48.3475
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.80876 -0.95710 -0.09 131.834
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.80889 -0.95588 -0.09 -137.902
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.80939 -0.95590 -0.09 41.2868
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -80.80819 -0.95494 -0.09 68.6206
+OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml -80.80696 -0.95522 -0.09 -62.6448
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.80658 -0.95486 -0.09 116.914
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.80652 -0.95790 -0.09 -137.427
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.80685 -0.95764 -0.09 41.5111
+# END piers_w090s10_w081s01_1627713

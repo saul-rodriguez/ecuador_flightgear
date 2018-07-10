@@ -1,0 +1,36 @@
+# piers_w090s10_w081s04_1627567
+# do not edit below this line
+# Last Written Sun Jul  1 09:55:44 2018
+#
+OBJECT_STATIC w090s10_w081s04_1627567piers0605.ac -80.00802 -3.27552 0.00 0
+OBJECT_STATIC w090s10_w081s04_1627567piers0606.ac -80.00802 -3.25744 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -80.00390 -3.26998 -0.01 109.554
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -80.00390 -3.26998 -0.01 109.554
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -80.00390 -3.26998 -0.01 109.554
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -80.00427 -3.26987 -0.01 111.048
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -80.00383 -3.26977 -0.01 288.728
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -80.00383 -3.26977 -0.01 288.728
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -80.00390 -3.26998 -0.01 109.554
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -80.00282 -3.26519 -0.00 139.162
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.00242 -3.26528 -0.00 -60.9996
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.00242 -3.26528 -0.00 -60.9996
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -80.00289 -3.26488 -0.00 199.905
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.00232 -3.26500 -0.00 119.425
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -80.00259 -3.26487 -0.00 21.2759
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -80.00289 -3.26488 -0.00 199.905
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.00232 -3.26500 -0.00 119.425
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.00232 -3.26500 -0.00 119.425
+# END piers_w090s10_w081s04_1627567
+# piers_w080s10_w080s04_1643944
+# do not edit below this line
+# Last Written Sun Jul  1 10:23:30 2018
+#
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.00026 -3.25229 1.05 -82.5906
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -80.00116 -3.25222 1.05 178.976
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.00026 -3.25229 1.05 -82.5906
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.00027 -3.25208 1.05 98.14
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.00027 -3.25208 1.05 98.14
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.00027 -3.25208 1.05 98.14
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.00026 -3.25229 1.05 -82.5906
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.00026 -3.25229 1.05 -82.5906
+# END piers_w080s10_w080s04_1643944

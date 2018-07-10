@@ -1,0 +1,7 @@
+# osm2roads_w080s10_w079s02_1660425
+# do not edit below this line
+# Last Written Sun Jul  1 11:01:36 2018
+#
+OBJECT_ROAD_DETAILED w080s10_w079s02_1660425roads0600.ac -78.75816 -1.86596 3214.39 0
+OBJECT_ROAD_ROUGH w080s10_w079s02_1660425roads_rough0600.ac -78.75816 -1.86596 3214.39 0
+# END osm2roads_w080s10_w079s02_1660425

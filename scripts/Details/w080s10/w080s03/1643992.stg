@@ -1,0 +1,9 @@
+# piers_w080s10_w080s03_1643992
+# do not edit below this line
+# Last Written Sun Jul  1 10:29:15 2018
+#
+OBJECT_STATIC w080s10_w080s03_1643992piers0600.ac -79.88310 -2.61596 0.00 0
+OBJECT_STATIC w080s10_w080s03_1643992piers0606.ac -79.88310 -2.50743 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -79.88364 -2.62152 -0.00 19.2181
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -79.88207 -2.51537 0.62 -55.7052
+# END piers_w080s10_w080s03_1643992

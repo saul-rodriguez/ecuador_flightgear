@@ -1,0 +1,14 @@
+# piers_w080s10_w080s01_1644114
+# do not edit below this line
+# Last Written Sun Jul  1 10:47:15 2018
+#
+OBJECT_STATIC w080s10_w080s01_1644114piers0503.ac -79.65118 -0.68669 0.00 0
+OBJECT_STATIC w080s10_w080s01_1644114piers0604.ac -79.63321 -0.66861 0.00 0
+OBJECT_STATIC w080s10_w080s01_1644114piers0605.ac -79.63321 -0.65052 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -79.65337 -0.68820 77.00 5.70859
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -79.64978 -0.68691 77.00 247.595
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -79.63667 -0.67018 75.00 259.518
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -79.63376 -0.67201 75.00 61.4221
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -79.63338 -0.65128 74.99 113.72
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -79.63194 -0.65038 75.00 71.4604
+# END piers_w080s10_w080s01_1644114

@@ -1,0 +1,29 @@
+# pylons_w080s10_w080s02_1644043
+# do not edit below this line
+# Last Written Sun Jul  1 10:41:03 2018
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.56234 -1.83251 6.59 356.151
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.56036 -1.83264 6.33 355.868
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55833 -1.83280 7.29 315.323
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55815 -1.83481 7.02 276.033
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55795 -1.83648 6.27 276.74
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55776 -1.83809 5.48 275.915
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55759 -1.84000 4.55 275.542
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55742 -1.84166 3.74 276.388
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55724 -1.84315 3.39 276.038
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55708 -1.84499 3.90 275.611
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55693 -1.84633 4.47 276.035
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55676 -1.84798 5.18 275.973
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55660 -1.84948 5.83 276.057
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55645 -1.85096 6.72 275.644
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55633 -1.85231 6.69 275.24
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55834 -1.83202 6.84 422.698
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55785 -1.83107 6.31 424.122
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55708 -1.82935 5.88 425.404
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55626 -1.82758 7.11 424.651
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55544 -1.82586 8.24 425.251
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55456 -1.82383 6.64 429.433
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -79.55445 -1.82349 6.41 432.407
+OBJECT_BUILDING_MESH_DETAILED w080s10_w080s02_1644043cables00023.ac -79.55696 -1.84615 5.05 90
+OBJECT_BUILDING_MESH_DETAILED w080s10_w080s02_1644043cables00024.ac -79.55840 -1.83174 6.40 90
+# END pylons_w080s10_w080s02_1644043

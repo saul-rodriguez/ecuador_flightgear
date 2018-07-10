@@ -1,0 +1,8 @@
+# pylons_w080n00_w079n01_1660617
+# do not edit below this line
+# Last Written Sun Jul  1 11:23:31 2018
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.85488 1.13395 25.52 240.849
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -78.85598 1.13196 23.00 240.61
+OBJECT_BUILDING_MESH_DETAILED w080n00_w079n01_1660617cables00008.ac -78.85894 1.12674 23.23 90
+# END pylons_w080n00_w079n01_1660617
